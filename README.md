@@ -48,5 +48,31 @@ All code can be accessed in the `root_directory/davinci` directory. For example,
   - *(Content updated last month)*
 - `environment.yml`: Environment configuration file.
   - *(Content updated last month)*
-
+    
+```{sh} 
+davinci/
+│
+├── docs/
+│   ├── discourse_analysis_visualization.pdf
+│
+├── imgs/
+│   ├── ...
+│
+├── notebooks/
+│   ├── ...
+│
+├── src/
+│   ├── visutils.py
+│   ├── ...
+│
+├── data/ (optional)
+│   ├── clean/
+│   ├── prepro/
+│   └── raw/
+│
+├── .gitignore
+├── README.md
+└── environment.yml
+  
+```
 
