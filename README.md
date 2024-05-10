@@ -1,5 +1,5 @@
 # DAVINCI: Visual Analytics Tool for Political Discourse Analysis
-
+![Pipeline](imgs/methods.png)
 Political discourse analysis plays a crucial role in understanding societal trends, shaping public opinion, and holding leaders accountable in democratic societies. However, the complexity and volume of political discourse data pose significant challenges for researchers and analysts. 
 
 We introduce DAVINCI, a visual analytics tool designed to facilitate the analysis of political discourse, with a focus on Mexican presidential speeches. DAVINCI employs advanced text preprocessing techniques, topic modeling algorithms, and intuitive visualization methods to uncover temporal trends, sentiment shifts, and associations with external events within political discourse data. 
@@ -27,7 +27,7 @@ All code can be accessed in the `root_directory/davinci` directory. For example,
 3. Install the package using pip:
 
     ```bash
-    pip install .
+    pip install -r requirements.txt.
     ```
 
 ## Repository Structure
