@@ -10,6 +10,10 @@ Through a multifaceted evaluation approach, including a detailed case study and 
 
 All code can be accessed in the `root_directory/davinci` directory. For example, if the root directory is `/home/user/projects`, then the code would be located at `/home/user/projects/davinci`.
 
+## An example of the visualization tool in HTML format
+
+You can check out the live version [here](https://dapivei.github.io/davinci/).
+
 ## Installation Instructions
 
 1. Clone the repository:
