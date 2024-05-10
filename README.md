@@ -12,7 +12,7 @@ All code can be accessed in the `root_directory/davinci` directory. For example,
 
 ## An example of the visualization tool in HTML format
 
-You can check out the live version [here](https://dapivei.github.io/davinci/).
+You can check out the live version [here](https://dapivei.github.io/davinci/index.html).
 
 ## Installation Instructions
 
